@@ -74,7 +74,7 @@ public class GCTest {
 
 ![](https://oss.javaguide.cn/github/javaguide/java/jvm/28954286.jpg)
 
-从上图我们可以看出 Eden 区内存几乎已经被分配完全（即使程序什么也不做，新生代也会使用 2000 多 k 内存）。
+从上图我们可以看出 Eden 区内存几乎已经被分配完全（即使程序什么也不做，新生代也会使用 33280 多 k 内存）。
 
 假如我们再为 `allocation2` 分配内存会出现什么情况呢？
 
